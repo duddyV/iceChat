@@ -1,0 +1,5 @@
+.chatbox {
+    outline: 1px solid silver;
+    min-height: 160px;
+    padding: 0.5em;
+}
